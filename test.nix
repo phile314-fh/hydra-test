@@ -3,6 +3,6 @@ in
   {
     test = pkgs.writeTextFile {
       name = "bla";
-      text = "blubsdf";
+      text = "blubsdfa";
     };
   }
